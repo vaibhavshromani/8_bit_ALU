@@ -1,7 +1,7 @@
 # 8-Bit ALU (Arithmetic Logic Unit)
 
 An 8-bit Arithmetic Logic Unit implemented in Verilog. Supports addition, subtraction, logical operations (AND, OR, XOR, NOT), and shift operations (SHL, SHR).
-# SCHEMATIC & DEVICE
+## SCHEMATIC & DEVICE
 <img width="1360" height="717" alt="schematic png" src="https://github.com/user-attachments/assets/2745259c-0b45-479e-aae4-6d0d83334a78" />
 
 
@@ -65,12 +65,12 @@ xor_gate_simulation
 <img width="1360" height="711" alt="power_report png" src="https://github.com/user-attachments/assets/faed8b09-6d0f-4c2e-925b-b3b89038d51c" />
 ## Utilization Report
 <img width="1357" height="721" alt="utilization_report png" src="https://github.com/user-attachments/assets/fb6afd93-b3bf-49c9-8c5e-e70e97d26694" />
-# Technologies
+## Technologies
 Language: Verilog HDL
 Tools: Icarus Verilog, vivado
 Target: FPGA / ASIC synthesis
-#Future Improvements
 
+## Future Improvements
 Add more operations (e.g., multiply, rotate, arithmetic shift)
 Implement control signals for signed operations
 Add overflow detection
